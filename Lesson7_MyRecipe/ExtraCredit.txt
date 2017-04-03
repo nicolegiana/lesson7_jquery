@@ -1,0 +1,4 @@
+I added the animation of fadeTo and incorporated the DOM traversal of next. 
+Next changed the selection to the sibling element following h3.
+fadeTo adjusted the opacity of the sibling elements and I set it to do so with the duration of 600 milliseconds by choosing slow.
+The CSS change I performed was changing the background color of the h3 elements when the mouse went over it.
